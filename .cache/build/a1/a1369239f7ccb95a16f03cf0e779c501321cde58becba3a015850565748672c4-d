@@ -1,0 +1,12 @@
+# test log
+getenv GOTMPDIR
+getenv TMPDIR
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001/rows.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001/rows.jsonl
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001/rows.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001/rows.jsonl
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001/rows.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestJSONLCompatibilityAndTruncatedTail292992421/001/rows.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T

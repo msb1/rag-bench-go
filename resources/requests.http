@@ -1,0 +1,46 @@
+@base = http://127.0.0.1:8080
+
+### Effective configuration, with no secrets
+GET {{base}}/v1/config
+
+### Preview chunking
+POST {{base}}/v1/chunk
+Content-Type: application/json
+
+{"key":"markdown/example.md","markdown":"# Architecture\nThe application reads Markdown documents from RustFS and stores their dense and sparse embeddings in Qdrant for hybrid retrieval."}
+
+### Index one object from the configured bucket (async)
+POST {{base}}/v1/index
+Content-Type: application/json
+
+{"limit":1}
+
+### Grounded answer or summary
+POST {{base}}/v1/rag
+Content-Type: application/json
+
+{"question":"Summarize the main findings in the indexed documents."}
+
+### Run one benchmark query (async)
+POST {{base}}/v1/benchmark
+Content-Type: application/json
+
+{"limit":1}
+
+### Evaluate one generated benchmark result (async)
+POST {{base}}/v1/eval
+Content-Type: application/json
+
+{"limit":1}
+
+### Evaluate a supplied answer
+POST {{base}}/v1/evaluate
+Content-Type: application/json
+
+{"question":"Which database stores embeddings?","answer":"Qdrant.","contexts":["Qdrant stores dense and sparse document embeddings."],"ground_truth":"Qdrant."}
+
+### Analyze results and export the dashboard and failure files
+POST {{base}}/v1/analyze
+Content-Type: application/json
+
+{"export":true}

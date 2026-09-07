@@ -1,0 +1,6 @@
+./analyze.go
+./benchmark.go
+./evaluate.go
+./index.go
+./jobs.go
+./rag.go

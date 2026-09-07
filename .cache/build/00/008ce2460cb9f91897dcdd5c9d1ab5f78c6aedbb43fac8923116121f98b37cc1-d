@@ -1,0 +1,24 @@
+# test log
+getenv GOTMPDIR
+getenv TMPDIR
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/results.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/output.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/results.jsonl
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/output.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/output.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/results.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/output.jsonl
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/.rag-bench-2763986244
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/hallucinations.jsonl
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/.rag-bench-3503469997
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/misses.jsonl
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/.rag-bench-2861995014
+stat /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/dashboard.svg
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/hallucinations.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T/TestEvaluationResumeAndAnalysis1565825655/001/misses.jsonl
+open /var/folders/88/jllmxdq56rq66lqs5nd2b8sw0000gn/T

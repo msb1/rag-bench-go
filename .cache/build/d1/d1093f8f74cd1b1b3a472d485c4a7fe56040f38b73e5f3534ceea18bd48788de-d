@@ -1,0 +1,6 @@
+./files.go
+./qdrant.go
+./s3.go
+./files_test.go
+./qdrant_test.go
+./s3_test.go

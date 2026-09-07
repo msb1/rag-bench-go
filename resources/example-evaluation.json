@@ -1,0 +1,6 @@
+{
+  "question": "Which database stores the document embeddings?",
+  "answer": "Qdrant stores the document embeddings.",
+  "contexts": ["The application stores dense and sparse document embeddings in Qdrant."],
+  "ground_truth": "The document embeddings are stored in Qdrant."
+}
